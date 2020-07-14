@@ -1,2 +1,1 @@
-# CertificadoImersaoGameDev
-Certificado Imersao GameDev Alura
+# certificado da Imersão Gamedev JavaScript
